@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 123 Unique Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-18 14:56+0000\n"
+"PO-Revision-Date: 2023-06-18 14:57+0000\n"
+"Last-Translator: Jaguat\n"
+"Language-Team: Spanish (Mexico)\n"
+"Language: es_MX\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2\n"
+"X-Domain: wcpdomain"
+
+#. Name of the plugin
+msgid "123 Unique Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "A very useful plugin."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://portfolio-vitor.vercel.app/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jaguat"
+msgstr ""
+
+#: 123-unique-plugin.php:45
+msgid "This post has"
+msgstr ""
+
+#: 123-unique-plugin.php:145
+msgid "Word Count"
+msgstr ""
+
+#: 123-unique-plugin.php:45
+msgid "words"
+msgstr ""
