@@ -33,7 +33,7 @@ class WordCountAndTimePlugin {
     }
 
     function createHTML($content) {
-        $html = '<h3>' . esc_html(get_option('wcp_headline', 'Post Statistics')) . '</h3><p>';
+        $html = '<h5>' . esc_html(get_option('wcp_headline', 'Post Statistics')) . '</h5><p style="font-size: 1rem;">';
 
         // get word count once because both wordcount and readtime will need it
         if (get_option('wcp_wordcount', '1') OR get_option('wcp_readtime', '1')) {
